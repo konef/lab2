@@ -63,8 +63,6 @@
 			},
 			"response": []
 		},
-		{
-			"name": "epruryaw0341:8085/api/user/{{userId}}",
 			"event": [
 				{
 					"listen": "test",
@@ -98,8 +96,7 @@
 					"mode": "raw",
 					"raw": ""
 				},
-				"url": {
-					"raw": "epruryaw0341:8085/api/user/{{userId}}",
+				"url":
 					"host": [
 						"epruryaw0341"
 					],
@@ -107,14 +104,11 @@
 					"path": [
 						"api",
 						"user",
-						"{{userId}}"
 					]
 				}
 			},
 			"response": []
 		},
-		{
-			"name": "epruryaw0341:8085/api/user/{{userId}}",
 			"event": [
 				{
 					"listen": "test",
@@ -163,7 +157,6 @@
 					"path": [
 						"api",
 						"user",
-						"{{userId}}"
 					]
 				}
 			},
