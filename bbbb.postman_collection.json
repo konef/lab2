@@ -148,8 +148,7 @@
 					"mode": "raw",
 					"raw": "{\r\n  \"NativeName\": \"makatat123\",\r\n  \"Role\": 1,\r\n  \"OldPassword\": \"blinbratik2\",\r\n  \"Password\": \"blinbratik3\",\r\n  \"ConfirmPassword\": \"blinbratik3\"\r\n}\r\n"
 				},
-				"url": {
-					"raw": "epruryaw0341:8085/api/user/{{userId}}",
+				"url": 
 					"host": [
 						"epruryaw0341"
 					],
